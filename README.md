@@ -1,6 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🤟 Welcome to Maxi.meme
 
-## Maxi.meme 🚀
+## 🚀 Maxi.meme&#x20;
 
 At Maxi.meme, we believe in fair crypto where everyone buys at the same price—no manipulation. Thanks to our transparent reverse auctions (1 hour, 1 billion fixed tokens) and a public map of holders linked to their X account, we empower the community by eliminating opacity and toxic speculation.
 

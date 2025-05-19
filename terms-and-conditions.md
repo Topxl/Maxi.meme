@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📎 Terms and Conditions
 
 ### 1. How it works <a href="#id-1.-how-it-works" id="id-1.-how-it-works"></a>

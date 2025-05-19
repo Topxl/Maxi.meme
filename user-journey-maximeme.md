@@ -1,8 +1,22 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👣 User Journey – MaxiMeme
 
-### 🧑‍🎨 Token Creator
+## 🧑‍🎨 Token Creator
 
-#### 1. Creation Steps
+### 1. Creation Steps
 
 * Connect your **X (Twitter)** account.
 * Connect your **Web3 wallet** (e.g., Phantom).
@@ -19,14 +33,14 @@
 
 📝 No validation or manual approval is required.
 
-#### 2. How Launches Work
+### 2. How Launches Work
 
 * The token starts at **$1** and the price **decreases over time**.
 * Users can buy at **any time during the launch phase**.
 * The **final price** is the price paid by the **last buyer**.
 * Tokens can be **resold** during or after the launch.
 
-#### 3. Customization Options
+### 3. Customization Options
 
 Creators can customize:
 
@@ -35,7 +49,7 @@ Creators can customize:
 * **Description**
 * **Social links**
 
-#### 4. After the Launch
+### 4. After the Launch
 
 * Creators can **promote** their token again for **1 SOL** (top placement for 24h).
 * All created tokens are listed in the **user profile**.
@@ -43,9 +57,9 @@ Creators can customize:
 
 ***
 
-### 🧑‍💻 Token Buyer
+## 🧑‍💻 Token Buyer
 
-#### 1. Discovering Tokens
+### 1. Discovering Tokens
 
 * Go to the **Launch** section:
   * `Upcoming`: tokens not launched yet
@@ -54,14 +68,14 @@ Creators can customize:
 * On the **Home** page: promoted tokens are displayed
 * The **Explorer** section lists all tokens
 
-#### 2. Buying During a Launch
+### 2. Buying During a Launch
 
 * Connect your **X account** and **wallet**.
 * Make sure you have enough **SOL**.
 * Click the **“Buy”** button during the countdown phase.
 * The **final price** is set by the **last purchase** once supply sells out.
 
-#### 3. Selling After a Launch
+### 3. Selling After a Launch
 
 * Click **“Sell”** to resell your tokens.
 * You get back:
@@ -72,7 +86,7 @@ Creators can customize:
   * Remaining SOL is sent to the **DAO Treasury**
 * Token holders can **vote** on how to use treasury funds (requires >50% approval).
 
-#### 4. Referral-Based Fee Reduction
+### 4. Referral-Based Fee Reduction
 
 * Use an active **referral link**.
 * Both the user and referrer receive:

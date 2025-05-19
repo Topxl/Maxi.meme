@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👮 Content Policy
 
 We are committed to enforcing these rules to ensure a safe and respectful environment. Violations may result in warnings, temporary or permanent suspensions, content removal, or other restrictions on token profiles. Our enforcement actions aim to maintain the integrity and safety of our platform. Although we cannot alter data on the blockchain, we reserve the right to remove token profiles that violate these rules. We can't control on-chain activities, but we are committed to preventing the spread of hate.

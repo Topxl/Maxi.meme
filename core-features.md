@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🛠️ Core Features – MaxiMeme
+# 🛠️ Core Features
 
 ### 🔹 Token Creation
 
